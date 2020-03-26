@@ -37,7 +37,7 @@ public class ViewStudentsController {
             new Student("Jane", "Does", 23, 9.35),
             new Student("Jack", "Black", 19, 6.58),
             new Student("Julia", "Nice", 21, 9.85),
-            new Student("Johnny", "Jackson", 24, 9.97),
+            new Student("Lidia", "Szm", 24, 9.97),
             new Student("Michelle", "Roberts", 22, 7.65)
     );
 }
